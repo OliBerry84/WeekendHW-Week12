@@ -1,0 +1,39 @@
+#heading {
+  font-family: 'Marck Script', cursive;
+  font-size: 80px;
+  text-align: center;
+  text-shadow: 3px 2px dodgerblue;
+}
+
+select {
+  display: block;
+  margin: auto;
+  font-size: 15px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  font-family: 'Metal Mania', cursive;
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 3px 2px dodgerblue;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'BenchNine', sans-serif;
+}
+
+body {
+  background-image: url("https://pre00.deviantart.net/658d/th/pre/f/2011/334/3/9/eagle_wallpaper___13___macbook_pro_by_muchofunk-d4hqlze.jpg");
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
